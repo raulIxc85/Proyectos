@@ -1,3 +1,1 @@
-Archivo de pruebas
-Archivo de pruebas
-
+system.out.prinln("mensaje de prueba")

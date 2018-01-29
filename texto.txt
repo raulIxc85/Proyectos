@@ -1,3 +1,3 @@
 system.out.prinln("mensaje de prueba")
 System.out.println("Hola Mundo")
-Hola Mundo;
+Hola Mundo;Integer numero;
